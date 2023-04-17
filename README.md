@@ -21,13 +21,18 @@ Repository Tugas Besar Mata Kuliah Probabilitas dan Statistika
 - Melakukan test hipotesis.
 
 ## Repository Structure
-- Soon To Be Updated
+```bash
+.
+├─── anggur.csv
+├─── K02-T1-IF2220-13521062.ipynb
+└─── README.md
+```
 
 ## Setup
-Pastikan anda telah menginstall bahasa python, dan jupyter notebook.
+Pastikan anda telah menginstall bahasa python, jupyter notebook, serta library python seperti pandas, matplotlib, numpy, dan scipy.
 
 ## Project Status
-Proyek ini sedang berjalan.
+Proyek ini sudah selesai.
 
 ## Acknowledgements
 - Terima kasih kepada Tuhan yang Maha Esa
